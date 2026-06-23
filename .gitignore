@@ -1,0 +1,13 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Maven / Spring Boot
+target/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
