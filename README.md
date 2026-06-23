@@ -1,15 +1,11 @@
-# Employee Management System
+# 🚀 Employee Management System (Spring Boot REST API)
 
-A Spring Boot REST API project for managing employee data with full CRUD operations.
+## 📌 About Project
+This is a backend REST API project built using Spring Boot for managing employee data with full CRUD operations.
 
-## 🚀 Features
-- Create new employee
-- Get all employees
-- Get employee by ID
-- Update employee details
-- Delete employee
+---
 
-## 🛠 Tech Stack
+## ⚙️ Tech Stack
 - Java
 - Spring Boot
 - Spring Data JPA
@@ -17,15 +13,37 @@ A Spring Boot REST API project for managing employee data with full CRUD operati
 - Postman
 - IntelliJ IDEA
 
-## 📌 API Endpoints
-- POST /employees → Create employee
-- GET /employees → Get all employees
-- GET /employees/{id} → Get employee by ID
-- PUT /employees/{id} → Update employee
-- DELETE /employees/{id} → Delete employee
+---
 
-## 📷 Testing
+## ✨ Features
+- Create Employee (POST)
+- Get All Employees (GET)
+- Get Employee by ID (GET)
+- Update Employee (PUT)
+- Delete Employee (DELETE)
+
+---
+
+## 🔗 API Endpoints
+- POST /employees → Create employee  
+- GET /employees → Get all employees  
+- GET /employees/{id} → Get employee by ID  
+- PUT /employees/{id} → Update employee  
+- DELETE /employees/{id} → Delete employee  
+
+---
+
+## 🧪 Testing
 All APIs tested using Postman.
+
+---
+
+## 📷 Project Proof
+- Postman API testing screenshots
+- IntelliJ project structure
+- JSON responses
+
+---
 
 ## 👩‍💻 Author
 Gitanjali Rodage
